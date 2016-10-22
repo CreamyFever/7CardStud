@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 62222c81515a0e840a16aeb188a0f4b7
+timeCreated: 1461856160
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chip_00
+    21300002: Chip_01
+    21300004: Chip_02
+    21300006: Chip_03
+    21300008: Chip_04
+    21300010: Chip_05
+    21300012: Chip_06
+    21300014: Chip_07
+    21300016: Chip_08
+    21300018: Chip_09
+    21300020: Chip_10
+    21300022: Chip_11
+    21300024: Chip_12
+    21300026: Chip_13
+    21300028: Chip_14
+    21300030: Chip_15
+    21300032: All-in_image
+    21300034: Fold_image
+    21300036: Call_image
+    21300038: Bet_image
+    21300040: Check_image
+    21300042: Raise_image
+    21300044: Nope
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Chip_00
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 214
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 21}
+        - {x: -21.5, y: 16}
+        - {x: -21.5, y: -12}
+        - {x: -16.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 15}
+        - {x: 9.5, y: 21}
+    - name: Chip_01
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 214
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 21}
+        - {x: -21.5, y: 14}
+        - {x: -21.5, y: -12}
+        - {x: -8.5, y: -21}
+        - {x: 8.5, y: -21}
+        - {x: 17.5, y: -15}
+        - {x: 21.5, y: -14}
+        - {x: 21.5, y: 21}
+    - name: Chip_02
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 215
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 20.5}
+        - {x: -21.5, y: 11.5}
+        - {x: -21.5, y: -20.5}
+        - {x: 21.5, y: -20.5}
+        - {x: 21.5, y: 14.5}
+        - {x: 20.5, y: 20.5}
+    - name: Chip_03
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 215
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 20.5}
+        - {x: -21.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 21.5, y: -15.5}
+        - {x: 21.5, y: 15.5}
+        - {x: 13.5, y: 20.5}
+    - name: Chip_04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 173
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19.5}
+        - {x: -21.5, y: 16.5}
+        - {x: -21.5, y: -14.5}
+        - {x: -14.5, y: -19.5}
+        - {x: 10.5, y: -19.5}
+        - {x: 19.5, y: -16.5}
+        - {x: 21.5, y: -12.5}
+        - {x: 21.5, y: 17.5}
+        - {x: 15.5, y: 19.5}
+    - name: Chip_05
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 174
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -21.5, y: 17.5}
+        - {x: -21.5, y: -15.5}
+        - {x: -15.5, y: -19.5}
+        - {x: 15.5, y: -19.5}
+        - {x: 21.5, y: -13.5}
+        - {x: 21.5, y: 16.5}
+        - {x: 13.5, y: 19.5}
+    - name: Chip_06
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 174
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 19.5}
+        - {x: -21.5, y: 13.5}
+        - {x: -21.5, y: -15.5}
+        - {x: -15.5, y: -20.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 21.5, y: -19.5}
+        - {x: 21.5, y: 16.5}
+        - {x: 14.5, y: 19.5}
+    - name: Chip_07
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 173
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 20.5}
+        - {x: -21.5, y: 16.5}
+        - {x: -21.5, y: -12.5}
+        - {x: -12.5, y: -20.5}
+        - {x: 19.5, y: -20.5}
+        - {x: 21.5, y: -12.5}
+        - {x: 21.5, y: 16.5}
+        - {x: 16.5, y: 20.5}
+    - name: Chip_08
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -21.5, y: 17.5}
+        - {x: -21.5, y: -15.5}
+        - {x: -15.5, y: -19.5}
+        - {x: 15.5, y: -19.5}
+        - {x: 21.5, y: -13.5}
+        - {x: 21.5, y: 16.5}
+        - {x: 13.5, y: 19.5}
+    - name: Chip_09
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 132
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20.5}
+        - {x: -21.5, y: 13.5}
+        - {x: -21.5, y: -16.5}
+        - {x: -16.5, y: -20.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 21.5, y: -15.5}
+        - {x: 21.5, y: 12.5}
+        - {x: 9.5, y: 20.5}
+    - name: Chip_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 132
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 19.5}
+        - {x: -21.5, y: 17.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -17.5, y: -19.5}
+        - {x: 10.5, y: -19.5}
+        - {x: 20.5, y: -16.5}
+        - {x: 21.5, y: -13.5}
+        - {x: 21.5, y: 12.5}
+        - {x: 16.5, y: 19.5}
+    - name: Chip_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 133
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 19.5}
+        - {x: -21.5, y: 11.5}
+        - {x: -21.5, y: -19.5}
+        - {x: 21.5, y: -19.5}
+        - {x: 21.5, y: 17.5}
+        - {x: 20.5, y: 19.5}
+    - name: Chip_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 21.5}
+        - {x: -22.5, y: -13.5}
+        - {x: -13.5, y: -21.5}
+        - {x: 21.5, y: -21.5}
+        - {x: 22.5, y: -16.5}
+        - {x: 22.5, y: 21.5}
+    - name: Chip_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 88
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 21.5}
+        - {x: -22.5, y: -13.5}
+        - {x: -13.5, y: -21.5}
+        - {x: 21.5, y: -21.5}
+        - {x: 22.5, y: -16.5}
+        - {x: 22.5, y: 21.5}
+    - name: Chip_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 88
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21.5}
+        - {x: -22.5, y: 17.5}
+        - {x: -22.5, y: -17.5}
+        - {x: -20.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 22.5, y: -17.5}
+        - {x: 22.5, y: 18.5}
+        - {x: 20.5, y: 21.5}
+    - name: Chip_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 21.5}
+        - {x: -22.5, y: 14.5}
+        - {x: -22.5, y: -11.5}
+        - {x: -14.5, y: -20.5}
+        - {x: -12.5, y: -21.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 22.5, y: -13.5}
+        - {x: 22.5, y: 17.5}
+        - {x: 16.5, y: 21.5}
+    - name: All-in_image
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 109
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fold_image
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 60
+        width: 109
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Call_image
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 109
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bet_image
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 32
+        width: 109
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Check_image
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 109
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Raise_image
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4
+        width: 109
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nope
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 91
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

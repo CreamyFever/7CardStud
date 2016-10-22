@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 82f7ba52fe1910b4886260e26c944d4b
+timeCreated: 1461756115
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StartBtn
+    21300002: BetBtn
+    21300004: FoldBtn
+    21300006: RaiseBtn
+    21300008: CheckBtn
+    21300010: CompleteBtn
+    21300012: CallBtn
+    21300014: BringInBtn
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StartBtn
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 396
+        width: 244
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 54}
+        - {x: 99, y: 58}
+        - {x: -100, y: 58}
+        - {x: -117, y: 48}
+        - {x: -122, y: 42}
+        - {x: -122, y: -53}
+        - {x: -115, y: -58}
+        - {x: 115, y: -58}
+        - {x: 118, y: -56}
+        - {x: 122, y: -48}
+        - {x: 122, y: 39}
+    - name: BetBtn
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 399
+        width: 242
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: 56.5}
+        - {x: -106, y: 56.5}
+        - {x: -121, y: 49.5}
+        - {x: -121, y: -53.5}
+        - {x: -119, y: -54.5}
+        - {x: -117, y: -56.5}
+        - {x: 114, y: -56.5}
+        - {x: 121, y: -47.5}
+        - {x: 121, y: 38.5}
+        - {x: 111, y: 50.5}
+    - name: FoldBtn
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 275
+        width: 243
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.5, y: 57}
+        - {x: -102.5, y: 57}
+        - {x: -121.5, y: 47}
+        - {x: -121.5, y: -50}
+        - {x: -114.5, y: -57}
+        - {x: 112.5, y: -57}
+        - {x: 118.5, y: -51}
+        - {x: 121.5, y: -45}
+        - {x: 121.5, y: 41}
+    - name: RaiseBtn
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 275
+        width: 240
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: 57}
+        - {x: -105, y: 57}
+        - {x: -118, y: 49}
+        - {x: -120, y: 45}
+        - {x: -120, y: -51}
+        - {x: -116, y: -57}
+        - {x: 112, y: -57}
+        - {x: 120, y: -47}
+        - {x: 120, y: 46}
+        - {x: 107, y: 56}
+    - name: CheckBtn
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 153
+        width: 243
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.5, y: 57}
+        - {x: -104.5, y: 57}
+        - {x: -121.5, y: 47}
+        - {x: -121.5, y: -51}
+        - {x: -114.5, y: -57}
+        - {x: 112.5, y: -57}
+        - {x: 121.5, y: -46}
+        - {x: 121.5, y: 40}
+        - {x: 117.5, y: 48}
+    - name: CompleteBtn
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 151
+        width: 240
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 58}
+        - {x: -102, y: 58}
+        - {x: -106, y: 56}
+        - {x: -120, y: 47}
+        - {x: -120, y: -49}
+        - {x: -117, y: -52}
+        - {x: -110, y: -58}
+        - {x: 110, y: -58}
+        - {x: 120, y: -51}
+        - {x: 120, y: 46}
+        - {x: 109, y: 57}
+    - name: CallBtn
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 30
+        width: 242
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 56.5}
+        - {x: 104, y: 57.5}
+        - {x: -104, y: 57.5}
+        - {x: -121, y: 47.5}
+        - {x: -121, y: -49.5}
+        - {x: -118, y: -52.5}
+        - {x: -112, y: -57.5}
+        - {x: 110, y: -57.5}
+        - {x: 118, y: -49.5}
+        - {x: 121, y: -45.5}
+        - {x: 121, y: 46.5}
+    - name: BringInBtn
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 29
+        width: 239
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111.5, y: 53.5}
+        - {x: 102.5, y: 58.5}
+        - {x: -105.5, y: 58.5}
+        - {x: -119.5, y: 48.5}
+        - {x: -119.5, y: -51.5}
+        - {x: -113.5, y: -58.5}
+        - {x: 119.5, y: -58.5}
+        - {x: 119.5, y: 44.5}
+        - {x: 118.5, y: 44.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
